@@ -1,28 +1,19 @@
-public class Carro
+public class Carro : Veiculo
 {
-    public string Modelo;
-    public string Marca;
-    public int Ano;
+    private string _modelo {get; set;}
 
-    public Carro(string modelo, string marca, int ano)
+    public Carro(string modelo, string marca, int ano) : base(marca, ano)
     {
-        if (string.IsNullOrWhiteSpace(modelo))
+        if (string.IsNullOrWhiteSpace(modelo)) 
         {
             throw new ArgumentException("O modelo não pode estar vazio!");
         }
 
-        if (string.IsNullOrWhiteSpace(marca)){
-            throw new ArgumentException("A marca não pode estar vazia");
-        }
+    }
 
-        if(ano <= 0)
-        {
-            throw new ArgumentException("O ano precisa ser maior que zero");
-        }
-
-        Modelo = modelo;
-        Marca = marca;
-        Ano = ano;
+    public override void Ligar()
+    {
+        Console.WriteLine("Partida Carro");
     }
 }
 
