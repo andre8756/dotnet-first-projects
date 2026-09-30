@@ -1,0 +1,15 @@
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/bin/Debug/net10.0/ProjetoCarro
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/bin/Debug/net10.0/ProjetoCarro.deps.json
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/bin/Debug/net10.0/ProjetoCarro.runtimeconfig.json
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/bin/Debug/net10.0/ProjetoCarro.dll
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/bin/Debug/net10.0/ProjetoCarro.pdb
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/obj/Debug/net10.0/ProjetoCarro.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/obj/Debug/net10.0/ProjetoCarro.AssemblyInfoInputs.cache
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/obj/Debug/net10.0/ProjetoCarro.AssemblyInfo.cs
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/obj/Debug/net10.0/ProjetoCarro.csproj.CoreCompileInputs.cache
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/obj/Debug/net10.0/ProjetoCarro.sourcelink.json
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/obj/Debug/net10.0/ProjetoCarro.dll
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/obj/Debug/net10.0/refint/ProjetoCarro.dll
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/obj/Debug/net10.0/ProjetoCarro.pdb
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/obj/Debug/net10.0/ProjetoCarro.genruntimeconfig.cache
+/home/andreheribertoschmitt/Documentos/programs/vs_code/projects/C#/MHtech/primeiro-projeto-C#/Projetos_Introducao/ProjetoCarro/obj/Debug/net10.0/ref/ProjetoCarro.dll
